@@ -1,0 +1,51 @@
+body {
+    background-color: #A6ECE0;
+    font-family: "Parkinsans", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 0;
+    flex-direction: column;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 1.5em;
+    border-bottom: 0.1em solid #4C8577;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    /*margin-left: 0.2em;
+    margin-right: 0.2em;*/
+}
+
+
+.langchoice .run {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border-top: 0.1em solid #4C8577;
+    
+}
+
+.langchoice {
+    margin-top: 2em;
+}
+
+.run {
+    margin-top: 2em;
+}
+
+.outputbox {
+    background-color: #4C8577;
+    color: white;
+    margin-top: 2em;
+}
+
