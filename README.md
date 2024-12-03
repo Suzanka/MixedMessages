@@ -35,4 +35,4 @@ The interface is designed to be responsive, ensuring a seamless experience wheth
 4. Enjoy the humor based on daily work challenges!
 
 
-### This project is licensed under the MIT License - see the LICENSE file for details.
+### This project is licensed under the MIT License - see the [LICENSE](https://github.com/Suzanka/MixedMessages/blob/main/license.md) file for details.
